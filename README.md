@@ -1,8 +1,6 @@
 # 👋 Диана Беркина · DIprooger
 
-<p align="center">
-  <b>Python AI Automation Engineer · Backend Developer · LLM & AI Agents</b>
-</p>
+<b>Python AI Automation Engineer · Backend Developer · LLM & AI Agents</b>
 
 ---
 
