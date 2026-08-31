@@ -395,7 +395,3 @@ I also enjoy volunteering and projects where the result of the work is tangible 
 </details>
 
 ---
-
-<p align="center">
-  <i>Building useful things with code, AI and automation.</i>
-</p>
