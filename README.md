@@ -176,9 +176,8 @@ I also enjoy volunteering and projects where the result of the work is tangible 
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DIprooger&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIprooger&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%"/>
 
 <br><br>
 
@@ -372,9 +371,8 @@ I also enjoy volunteering and projects where the result of the work is tangible 
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DIprooger&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIprooger&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%"/>
 
 <br><br>
 
